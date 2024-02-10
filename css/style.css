@@ -1,0 +1,80 @@
+.Group{
+    position: relative;
+    height: 600px;
+    width: auto;
+    grid: right;
+    margin: 10px auto;
+    top: 250px;
+    right: 150px;
+}
+.digid{
+    position: relative;
+    height: 350px;
+    width: auto;
+    float: right;
+    margin: auto;
+    top: 150px;
+    left: 160px;
+}
+.Group2{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    left: 150px;
+    top: 65px;
+}
+div{
+    height: 150px;
+    width: auto;
+}
+#id pre{
+    position: relative;
+    left: 1000px;
+    top: 75px;
+    margin: 10px 10px auto;
+    font-size: 25px;
+    color: #848484;
+    font-weight: normal;
+    font-family: Microsoft YaHei Light;
+
+}
+#id span{
+    margin-left: 20px;
+    color: #731F07;
+    font-weight: bold;
+    font-family: Arial ;
+}
+#pomogite h1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #506269;
+    text-align: left;
+    font-size: 70px;
+    top: 100px;
+    font-weight: bold;
+    margin: 0 0 auto;
+    margin-left: 50px;
+}
+#pomogite span{
+    font-family: Microsoft YaHei Light;
+    color: #848484;
+    position: relative;
+    font-size: 30px;
+    top: 100px;
+    margin: 0 0 auto;
+    margin-left: 100px;
+}
+.cont{
+    position: relative;
+    background-color: #A5410F;
+    height: 100px;
+    line-height: 100px;
+    width: 550px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 370px;
+    margin-left: 125px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
